@@ -1,3 +1,11 @@
+## Create ATM
+# deposit
+# withdraw
+# check balance
+# OTP
+# order coffee
+# pay bill
+
 import random
 import re
 
